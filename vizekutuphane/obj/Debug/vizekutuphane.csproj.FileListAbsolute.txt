@@ -1,0 +1,6 @@
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.Form1.resources
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\vizekutuphane\vizekutuphane\obj\Debug\vizekutuphane.csproj.CoreCompileInputs.cache
